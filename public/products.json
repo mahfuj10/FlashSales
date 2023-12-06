@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Monitor",
+    "description": "Xiaomi Redmi RMMNT215NF 21.45' FHD Monitor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/rmmnt215nf/rmmnt215nf-01-500x500.jpg",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  },
+  {
+    "title": "Cashing",
+    "description": "Revenger B701 RGB Micro ATX Gaming Case",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/casing/revenger/b701/b701-01-500x500.webp",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  },
+  {
+    "title": "Keyboard",
+    "description": "Havit KB866L Multi-function Backlit Membrane Gaming Keyboard",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/keyboard/havit/kb866l/kb866l-01-500x500.webp",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  },
+  {
+    "title": "Mouse",
+    "description": "Redragon M987-K RGB Honeycomb Gaming Mouse",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mouse/redragon/m987-k/m987-k-01-500x500.webp",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  },
+  {
+    "title": "Cooling Fan",
+    "description": "AMD Ryzen Boxed Cooling Fan Original",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/amd/ryzen-boxed-cooling-fan/ryzen-boxed-cooling-fan-500x500.jpg",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  },
+  {
+    "title": "Airpods",
+    "description": "Apple AirPods 3rd generation with Charging Case",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/earphone/apple/airpods-3rd-gen/airpods-3rd-generation-01-500x500.jpg",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  },
+  {
+    "title": "Processor",
+    "description": "Intel 12th Gen Core i5-12400F Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i5-12400/i5-12400-001-500x500.jpg",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  },
+  {
+    "title": "Laptop",
+    "description": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 10.1 HD Touch Laptop",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/d330/d330-1-500x500.jpg",
+    "price": "750",
+    "offerPrice": "620",
+    "discount": "22"
+  }
+]
